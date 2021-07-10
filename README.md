@@ -33,6 +33,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 <br />
+<br />
 
 ### Softwares:
 
@@ -40,7 +41,7 @@
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
 
 <br />
-
+<br />
 - 🔭 I’m currently working on Flutter, Swift
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate on any open source project
