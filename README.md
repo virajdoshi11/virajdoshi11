@@ -42,10 +42,10 @@
 
 <br />
 <br />
-- 🔭 I’m currently working on Flutter, Swift
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on any open source project
-- ⚡ Fun fact: I like developing things from scratch rather than using libraries
+- 🔭 I’m currently working on Flutter, Swift <br />
+- 🌱 I’m currently learning SwiftUI <br />
+- 👯 I’m looking to collaborate on any open source project <br />
+- ⚡ Fun fact: I like developing things from scratch rather than using libraries <br />
 
 <hr>
 
