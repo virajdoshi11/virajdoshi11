@@ -23,7 +23,6 @@
 </p>
 
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -42,10 +41,10 @@
 
 <br />
 <br />
-- 🔭 I’m currently working on Flutter, Swift <br />
+<!-- - 🔭 I’m currently working on Flutter, Swift <br />
 - 🌱 I’m currently learning SwiftUI <br />
 - 👯 I’m looking to collaborate on any open source project <br />
-- ⚡ Fun fact: I like developing things from scratch rather than using libraries <br />
+- ⚡ Fun fact: I like developing things from scratch rather than using libraries <br /> -->
 
 <hr>
 
