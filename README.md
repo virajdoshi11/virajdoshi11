@@ -8,7 +8,7 @@
 <a align= "center" href="https://github.com/virajdoshi11">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=virajdoshi11&theme=cobalt&show_icons=true&count_private=true" />
 </a>
-<div align="right">
+         
   - 📫 How to reach me **virajdoshi11@gmail.com**
   -  Second mail address **viraj.nd@somaiya.edu**
   <br><br>
@@ -18,7 +18,6 @@
   <p align="center">
   <a href="https://www.linkedin.com/in/viraj-doshi-04b212189/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Viraj Doshi" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-</div>
   <!--   <img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />  -->
 
 </p>
